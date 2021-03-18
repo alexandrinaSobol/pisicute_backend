@@ -1,3 +1,1 @@
-INSERT INTO todo(id, name, color) VALUES (1, 'Cherry', 'red');
-INSERT INTO todo(id, name, color) VALUES (2, 'Apple', 'red');
-INSERT INTO todo(id, name, color) VALUES (3, 'Banana', 'red');
+INSERT INTO cat(id, name, breed, age, addDate, updateDate ) VALUES (1, 'Bella', 'Abyssinian', 1, '1970-01-19 18:51:28', '1970-01-19 18:51:29');
